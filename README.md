@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">Gus,</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://google.com">Gus,</a> 👋</h1>
 </div>
 <!--
 <img src="https://i.imgur.com/weNbhGZ.png"> -->
@@ -11,6 +11,7 @@
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
+<!-- https://shields.io/    https://badgen.net/help#generators   https://gprm.itsvg.in/  -->
 -->
 <!--
 ## Sobre mi
@@ -155,6 +156,15 @@ Find all of my socials and resume in my [website](https://fredrikson.com.ar)
 <a href="https://github.com/gusarce">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gusarce&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gusarce&layout=compact&langs_count=8&theme=algolia"/>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=gusarce&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gusarce&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gusarce&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=gusarce&icon=0&color=0)](https://visitcount.itsvg.in)
+  
 </a>
 </p>
 
