@@ -19,3 +19,18 @@ My name is Gustavo, I'm from Colombia.
 
 Find all of my socials and resume in my [website](https://fredrikson.com.ar)
 --->
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
