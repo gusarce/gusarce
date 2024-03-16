@@ -9,4 +9,4 @@ dist
 *.mp4
 .wwebjs_auth
 *.txt
-.gitignore
+*.gitignore
