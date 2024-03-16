@@ -1,0 +1,11 @@
+node:modules/
+node_modules
+*_sessions
+*qr.png
+*.log
+tmp/*
+!tmp/.gitkeep
+dist
+*.mp4
+.wwebjs_auth
+*.txt
