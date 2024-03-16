@@ -82,7 +82,9 @@ Find all of my socials and resume in my [website](https://fredrikson.com.ar)
 <a href="https://github.com/gusarce/gusarce" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://www.youtube.com/watch?v=zeS-inowvGI" target="_blank">
+<!--<a href="https://www.youtube.com/watch?v=zeS-inowvGI" target="_blank"> -->
+<a href="https://www.youtube.com/watch?v=zeS-inowvGI" onclick="window.open(this.href,'_blank');return false;">
+
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
