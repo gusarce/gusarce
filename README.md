@@ -164,7 +164,7 @@ Find all of my socials and resume in my [website](https://fredrikson.com.ar)
 </p>
 
 ---
-
+<!--
 <div  align="center">
 
 <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=gusarce&show_icons=true&count_private=true&theme=blue-red&hide_border=true&,contribs&bg_color=00000000">
@@ -176,7 +176,7 @@ Find all of my socials and resume in my [website](https://fredrikson.com.ar)
 </div
 
 ---
-
+-->
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
