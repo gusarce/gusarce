@@ -160,9 +160,22 @@ Find all of my socials and resume in my [website](https://fredrikson.com.ar)
   <!--<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gusarce&layout=compact&langs_count=8&theme=algolia"/>-->
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusarce&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/> -->
 
-  
 </a>
 </p>
+
+---
+
+<div  align="center">
+
+<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=gusarce&show_icons=true&count_private=true&theme=blue-red&hide_border=true&,contribs&bg_color=00000000">
+
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=gusarce&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+
+<img src ="https://github-readme-streak-stats.herokuapp.com?user=gusarce&theme=darcula&hide_border=true&background=FFFFFF00">
+
+</div
+
+---
 
 
 > [!NOTE]
